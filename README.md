@@ -1,7 +1,7 @@
 # Machine-learning-project
 Đây là project cuối kỳ môn Học máy (Machine Learning). Project đang trong quá trình hoàn thiện nên không tránh khỏi những sai sót.
 ### Đề tài: Xử lý bộ dữ liệu chữ số viết tay
-#### Dữ liệu:
+#### Dữ liệu được lưu trữ tại folder handwriting
 Bộ dữ liệu chữ số viết tay lấy từ: http://yann.lecun.com/exdb/mnist/
 
 Dữ liệu được để trong 4 tệp với thông tin như dưới đây:
